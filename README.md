@@ -8,7 +8,14 @@
   <a href="https://discord.com/users/432194939749924896" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
+  <a href="https://jonny.christmas/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Jonny.Christmas&logo=google-chrome&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="jonny.christmas logo"  />
+  </a>
+  <a href="https://guns.lol/jonny" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Guns.lol&logo=target&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="guns.lol logo"  />
+  </a>
 </div>
+
 
 ###
 
