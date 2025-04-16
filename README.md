@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">I'm Jonny from Austria<br><br>🔭 I work as an Application Developer.<br>📚 I'm currently learning vue.js<br>⚡ In my free time, I follow my favorite football club 🖤🤍</h3>
+<h3 align="left">I'm Jonny from Austria<br><br>🔭 I work as an Application Developer.<br>📚 I'm currently learning svelte<br>⚡ In my free time, I follow my favorite football club 🖤🤍</h3>
 
 ###
 
