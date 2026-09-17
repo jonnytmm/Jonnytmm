@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://1312ru.com/"><img src="https://img.shields.io/badge/1312ru.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000&color=ffffff" alt="1312ru.com" height="28" /></a>
   <a href="https://wavebots.eu/"><img src="https://img.shields.io/badge/WaveBots.eu-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000&color=ffffff" alt="WaveBots" height="28" /></a>
-  <a href="https://cybercrime.cat/@1312"><img src="https://img.shields.io/badge/cybercrime.cat-000000?style=for-the-badge&logo=Bio&logoColor=white&labelColor=000000&color=ffffff" alt="Bio" height="28" /></a>
+  <a href="https://cybercrime.cat/@1312"><img src="https://img.shields.io/badge/cybercrime.cat-000000?style=for-the-badge&logo=mastodon&logoColor=white&labelColor=000000&color=ffffff" alt="Bio" height="28" /></a>
   <a href="https://discord.com/users/432194939749924896"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000&color=ffffff" alt="Discord" height="28" /></a>
 </p>
 
