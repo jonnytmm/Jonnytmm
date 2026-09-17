@@ -173,8 +173,8 @@ const profile = {
 
 ## `> github_stats_`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jonnytmm&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b0b0b0&ring_color=ffffff" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnytmm&layout=compact&theme=transparent&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b0b0b0&hide=html,css" alt="Top languages" />
+<img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=jonnytmm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b0b0b0&ring_color=ffffff" alt="GitHub stats" />
+<img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jonnytmm&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b0b0b0&hide=html,css" alt="Top languages" />
 
 <br/>
 
@@ -182,7 +182,8 @@ const profile = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jonnytmm&bg_color=000000&color=ffffff&line=ffffff&point=b0b0b0&area=true&hide_border=true&custom_title=contribution%20graph" alt="Activity graph" height="280" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonnytmm&theme=github_dark" alt="Profile details" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonnytmm&theme=github_dark" alt="Repos per language" height="200" />
 
 </div>
 
