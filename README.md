@@ -1,94 +1,218 @@
-<div align="center">
-  <img height="150" src="https://s20.directupload.net/images/250219/u3ft6jyy.gif"  />
-</div>
+<p align="center">
+  <img src="https://wavebots.eu/uploads/432194939749924896-1789669959072-ultras-liberi-banner-792be31b.png" width="100%" alt="Ultras Liberi" />
+</p>
 
-###
-
-<div align="center">
-  <a href="https://discord.com/users/432194939749924896" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://jonny.christmas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Jonny.Christmas&logo=google-chrome&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="jonny.christmas logo"  />
-  </a>
-  <a href="https://guns.lol/jonny" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Guns.lol&logo=target&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="guns.lol logo"  />
-  </a>
-</div>
-
-
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=680&height=50&lines=1312.EXE;boot+sequence+complete;welcome+jonny_" alt="typing" />
+</p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jonnytmm.jonnytmm&"  />
+<pre>
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║     ██╗ ██████╗  ██╗██████╗      ███████╗██╗  ██╗███████╗║
+║    ███║ ╚════██╗███║╚════██╗     ██╔════╝╚██╗██╔╝██╔════╝║
+║    ╚██║  █████╔╝╚██║ █████╔╝     █████╗   ╚███╔╝ █████╗  ║
+║     ██║  ╚═══██╗ ██║██╔═══╝      ██╔══╝   ██╔██╗ ██╔══╝  ║
+║     ██║ ██████╔╝ ██║███████╗     ███████╗██╔╝ ██╗███████╗║
+║     ╚═╝ ╚═════╝  ╚═╝╚══════╝     ╚══════╝╚═╝  ╚═╝╚══════╝║
+║                                                          ║
+║         austria  ·  developer  ·  sturm graz             ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
 </div>
 
-###
+<p align="center">
+  <a href="https://1312ru.com/"><img src="https://img.shields.io/badge/1312ru.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000&color=ffffff" alt="1312ru.com" height="28" /></a>
+  <a href="https://wavebots.eu/"><img src="https://img.shields.io/badge/WaveBots.eu-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000&color=ffffff" alt="WaveBots" height="28" /></a>
+  <a href="https://cybercrime.cat/@1312"><img src="https://img.shields.io/badge/cybercrime.cat-000000?style=for-the-badge&logo=mastodon&logoColor=white&labelColor=000000&color=ffffff" alt="Mastodon" height="28" /></a>
+  <a href="https://discord.com/users/432194939749924896"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000&color=ffffff" alt="Discord" height="28" /></a>
+</p>
 
-<h1 align="center">hey there 👋</h1>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jonnytmm.jonnytmm&left_color=000000&right_color=ffffff" alt="visitors" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/jonnytmm?label=followers&style=flat&color=ffffff&labelColor=000000" alt="followers" />
+</p>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+<div align="center">
 
-###
+## `> about_me_`
 
-<h3 align="left">I'm Jonny from Austria<br><br>🔭 I work as an Application Developer.<br>📚 I'm currently learning svelte<br>⚡ In my free time, I follow my favorite football club 🖤🤍</h3>
+</div>
 
-###
+```ts
+const profile = {
+  name: "Jonny",
+  location: "Austria",
+  role: "Application Developer",
+  focus: ["APIs", "Backends", "Discord Bots", "Game Servers"],
+  stack: ["TypeScript", "Lua", "Node.js", "C#"],
+  club: "SK Sturm Graz",
+  legends: ["Diego Armando Maradona · D10S", "Ivica Osim"],
+  links: {
+    site: "https://1312ru.com/",
+    bots: "https://wavebots.eu/",
+    fediverse: "https://cybercrime.cat/@1312",
+  },
+} as const;
+```
 
-<h3 align="left">🛠 Skills</h3>
+<p align="center">
+  Developer from Austria — APIs, backends, frontends, Discord bots &amp; networking (CCNA).<br/>
+  <code>status: building · forever</code>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40 alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<div align="center">
+
+## `> identity_`
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://1312ru.com/sturm-graz-logo.png" height="110" alt="SK Sturm Graz" /><br/>
+      <b>SK STURM GRAZ</b><br/>
+      <sub>Driven by the Sturm spirit · since 1909</sub><br/>
+      <code>Anti 1902 · Jakominigürtel</code>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://1312ru.com/maradona.png" height="110" alt="Diego Maradona" /><br/>
+      <b>DIEGO ARMANDO MARADONA</b><br/>
+      <sub>30.10.1960 — 25.11.2020 · El Diego</sub><br/>
+      <code>La mano de D10S · God</code>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://1312ru.com/osim.png" height="110" alt="Ivica Osim" /><br/>
+      <b>IVICA OSIM</b><br/>
+      <sub>06.05.1941 — 01.05.2022 · Volimo te Ivica</sub><br/>
+      <code>Osim everywhere · never forgotten</code>
+    </td>
+  </tr>
+</table>
+
+<blockquote>
+  <p align="center"><i>"I was born to play football, like Beethoven was born to write music."</i> — Maradona</p>
+  <p align="center"><i>"Sturm covers everything that is black in my life. Everything that is white, too."</i> — Ivica Osim</p>
+</blockquote>
+
+</div>
+
+---
+
+<div align="center">
+
+## `> skill_matrix_`
+
+</div>
+
+### `01` Backend · Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=lua,ts,js&theme=dark" alt="game stack" />
+</p>
+
+`Lua` · `FiveM` · `PocusSoftware` · `ESX` · `QBCore` · Custom Frameworks
+
+### `02` JavaScript & TypeScript
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,discordjs,react,nextjs,vue&theme=dark" alt="js stack" />
+</p>
+
+`Node.js` · `Discord.js` · `React` · `Next.js` · Realtime APIs · Microservices
+
+### `03` Apps · Microservices · APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,go,python&theme=dark" alt="app stack" />
+</p>
+
+`C#` · `.NET` · `Java` · `Spring` · `PHP` · `Symfony` · REST / WebSocket
+
+### `04` Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" alt="db stack" />
+</p>
+
+`MySQL` · `MariaDB` · `PostgreSQL` · `MongoDB` · `Redis` · Query Optimization
+
+### `05` Server · Deploy · Ops
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,githubactions,bash&theme=dark" alt="ops stack" />
+</p>
+
+`Docker` · `CI/CD` · `Linux` · Load Balancing · Monitoring · Performance Tuning
+
+---
+
+<div align="center">
+
+## `> projects_`
+
+| Project | Status | Link |
+|:--------|:------:|:-----|
+| **1312.EXE** · Personal site | `ACTIVE` | [1312ru.com](https://1312ru.com/) |
+| **Wave Bots** · Discord bots | `ACTIVE` | [wavebots.eu](https://wavebots.eu/) |
+| **Bio** · `@1312` | `ONLINE` | [cybercrime.cat/@1312](https://cybercrime.cat/@1312) |
+
+<br/>
+
+<a href="https://1312ru.com/">
+  <img src="https://img.shields.io/badge/open_1312.EXE-000000?style=for-the-badge&logo=windowsterminal&logoColor=ffffff&labelColor=000000&color=ffffff" alt="Open 1312.EXE" />
+</a>
+<a href="https://wavebots.eu/">
+  <img src="https://img.shields.io/badge/open_Wave_Bots-000000?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=000000&color=ffffff" alt="Open Wave Bots" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## `> github_stats_`
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jonnytmm&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b0b0b0&ring_color=ffffff" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnytmm&layout=compact&theme=transparent&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b0b0b0&hide=html,css" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=jonnytmm&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=b0b0b0&dates=808080&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jonnytmm&bg_color=000000&color=ffffff&line=ffffff&point=b0b0b0&area=true&hide_border=true&custom_title=contribution%20graph" alt="Activity graph" height="280" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `> connect_`
+
+```bash
+$ curl -s https://1312ru.com/ | head -c 64
+# → 1312.EXE booting…
+```
+
+<p>
+  <a href="https://1312ru.com/"><strong>website</strong></a>
+  ·
+  <a href="https://wavebots.eu/"><strong>wave bots</strong></a>
+  ·
+  <a href="https://cybercrime.cat/@1312"><strong>mastodon</strong></a>
+  ·
+  <a href="https://discord.com/users/432194939749924896"><strong>discord</strong></a>
+  ·
+  <a href="https://github.com/jonnytmm"><strong>github</strong></a>
+</p>
+
+<br/>
+
+<code>&gt;Джонни_</code>
+<br/>
+<sub>© 2026 · built with caffeine · Sturm Graz</sub>
+
 </div>
